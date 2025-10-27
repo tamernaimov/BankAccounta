@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        BankAccount account1 = new BankAccount("Иван Иванов", "BG80BNBG96611020345678", 1000);
+        BankAccount account1 = new BankAccount("gabito krisko", "BG80BNBG96611020345678", 1000);
 
         Console.WriteLine(account1);
     }
